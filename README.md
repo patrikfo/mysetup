@@ -2,7 +2,7 @@
 Here i will describe how my homelab looks and what type of hardware i'm using.
 
 ## Main workstation
-My main rig is a workstation that i have built by my selfe.
+My main workstation that i have built by my selfe.
 
 * Processor: AMD Ryzen 3700x
 * MB: Asus x370 prime pro
